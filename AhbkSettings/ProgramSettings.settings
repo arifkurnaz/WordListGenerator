@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AhbkSettings" GeneratedClassName="ProgramSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProgramName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wordlist Generator by Ahbk</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0.0.0</Value>
+    </Setting>
+    <Setting Name="Author" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Arif Kurnaz</Value>
+    </Setting>
+    <Setting Name="Github" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">arif.kurnaz@hotmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
